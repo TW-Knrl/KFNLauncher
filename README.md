@@ -1,5 +1,5 @@
 # KFortniteLauncher
-A Fortnite Launcher which can bypass SSL pinning and anti-cheat.
+A Fortnite Launcher which can bypass SSL pinning and anti-cheat. Note: I can't publish the SRC for EpicGames things
 
 ## Installation 
 * **[Download](https://github.com/TW-Knrl/KFNLauncher/releases/download/FortniteLauncher/FortniteLauncher.zip)** the latest version.  
